@@ -10,6 +10,8 @@
   <li>소프트웨어 패키징</li>
   <li>Servlet&Jsp Front Controller 모델을 통해 웹사이트 구축</li>
   <li>Spirng MVC를 활용한 웹사이트 구축</li>
+  <li>Restful API</li>
+  <li>오픈뱅킹 API를 활용한 서비스 제공</li>
 </ul>
 
 <div align=center><h1>📚 STACKS</h1></div>
